@@ -1,0 +1,14 @@
+C:\Users\Animal V2 Mobile\source\repos\Week7Functions\Week7PrintArrayFunction\bin\Debug\net6.0\Week7PrintArrayFunction.exe
+C:\Users\Animal V2 Mobile\source\repos\Week7Functions\Week7PrintArrayFunction\bin\Debug\net6.0\Week7PrintArrayFunction.deps.json
+C:\Users\Animal V2 Mobile\source\repos\Week7Functions\Week7PrintArrayFunction\bin\Debug\net6.0\Week7PrintArrayFunction.runtimeconfig.json
+C:\Users\Animal V2 Mobile\source\repos\Week7Functions\Week7PrintArrayFunction\bin\Debug\net6.0\Week7PrintArrayFunction.dll
+C:\Users\Animal V2 Mobile\source\repos\Week7Functions\Week7PrintArrayFunction\bin\Debug\net6.0\Week7PrintArrayFunction.pdb
+C:\Users\Animal V2 Mobile\source\repos\Week7Functions\Week7PrintArrayFunction\obj\Debug\net6.0\Week7PrintArrayFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Animal V2 Mobile\source\repos\Week7Functions\Week7PrintArrayFunction\obj\Debug\net6.0\Week7PrintArrayFunction.AssemblyInfoInputs.cache
+C:\Users\Animal V2 Mobile\source\repos\Week7Functions\Week7PrintArrayFunction\obj\Debug\net6.0\Week7PrintArrayFunction.AssemblyInfo.cs
+C:\Users\Animal V2 Mobile\source\repos\Week7Functions\Week7PrintArrayFunction\obj\Debug\net6.0\Week7PrintArrayFunction.csproj.CoreCompileInputs.cache
+C:\Users\Animal V2 Mobile\source\repos\Week7Functions\Week7PrintArrayFunction\obj\Debug\net6.0\Week7PrintArrayFunction.dll
+C:\Users\Animal V2 Mobile\source\repos\Week7Functions\Week7PrintArrayFunction\obj\Debug\net6.0\refint\Week7PrintArrayFunction.dll
+C:\Users\Animal V2 Mobile\source\repos\Week7Functions\Week7PrintArrayFunction\obj\Debug\net6.0\Week7PrintArrayFunction.pdb
+C:\Users\Animal V2 Mobile\source\repos\Week7Functions\Week7PrintArrayFunction\obj\Debug\net6.0\Week7PrintArrayFunction.genruntimeconfig.cache
+C:\Users\Animal V2 Mobile\source\repos\Week7Functions\Week7PrintArrayFunction\obj\Debug\net6.0\ref\Week7PrintArrayFunction.dll
